@@ -1,6 +1,6 @@
 # MetaSLAM: Target for General Artificial Intelligent Robotic System
 
-![framework](img/frame.png)
+![framework](https://github.com/MetaSLAM/.github/blob/main/profile/img/frame.png)
 
 ## 🙋‍♀️ Introduction to MetaSLAM 
 
