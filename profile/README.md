@@ -1,4 +1,4 @@
-# MetaSLAM: Target for General Artificial Intelligent Robotic System
+# MetaSLAM: Target for General *AI* & *Robotic* System
 
 ![framework](https://github.com/MetaSLAM/.github/blob/main/profile/img/frame.png)
 
@@ -14,9 +14,7 @@ MetaSLAM specializes in a range of core approaches that represent the cutting ed
 
 * **Multi-sensor Fusion-based Localization and Navigation**: Utilizing a blend of sensors and algorithms, MetaSLAM offers unparalleled accuracy in robotic positioning and navigation.
 
-* **City-scale Map Merging**: With capabilities to aggregate and optimize enormous datasets, MetaSLAM enables accurate and real-time mapping across sprawling urban environments.
-
-* **Large-scale Indoor Navigation**: Through advanced algorithms, the framework supports efficient and reliable navigation within extensive indoor facilities, which can be particularly useful in warehouses, hospitals, and large office spaces.
+* **City-scale Crowdsourced Mapping**: With capabilities to aggregate and optimize enormous datasets, MetaSLAM enables accurate and real-time map merging across sprawling urban environments.
   
 * **Multi-agent Cooperation and Exploration**: Designed for collaborative efficacy, the system allows multiple robotic agents to work in sync for optimized task performance.
   
@@ -26,11 +24,6 @@ MetaSLAM specializes in a range of core approaches that represent the cutting ed
 The ultimate goal of MetaSLAM is to empower researchers and innovators in various domains of field robotics. Its state-of-the-art approaches provide invaluable tools and frameworks that can be customized for a range of applications, from urban planning and disaster recovery to industrial automation and healthcare.
 
 By advancing the capabilities of multi-agent systems and large-scale operations, MetaSLAM is not just setting new benchmarks in robotics; it is shaping the future of how we interact with and leverage robotic technologies in the real world.
-
---- 
-
-## 🧙 Enjoy the AI & Robotic World
-With its cutting-edge technology and interdisciplinary collaboration, MetaSLAM is a trailblazer, setting the stage for the next generation of robotic applications.
 
 <!--
 
