@@ -1,5 +1,7 @@
 # MetaSLAM: Target for General Artificial Intelligent Robotic System
 
+![framework](img/frame.png)
+
 ## 🙋‍♀️ Introduction to MetaSLAM 
 
 In an era where automation and robotics are revolutionizing various industries, MetaSLAM stands at the forefront of innovation, driving progress in field robotics and multi-agent systems. Established as a non-profit initiative under the GAIRLAB (General AI & Robotic Lab) led by Prof. Peng Yin at the City University of Hong Kong, MetaSLAM operates as a collective intelligence framework aimed at enhancing the capabilities of robotic systems during large-scale and long-term operations.
