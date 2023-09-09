@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ Introduction to MetaSLAM 
 
-In an era where automation and robotics are revolutionizing various industries, MetaSLAM stands at the forefront of innovation, driving progress in field robotics and multi-agent systems. Established as a non-profit initiative under the GAIRLAB (General AI & Robotic Lab) led by Prof. Peng Yin at the City University of Hong Kong, MetaSLAM operates as a collective intelligence framework aimed at enhancing the capabilities of robotic systems during large-scale and long-term operations.
+In an era where automation and robotics are revolutionizing various industries, MetaSLAM stands at the forefront of innovation, driving progress in field robotics and multi-agent systems. Established as a non-profit initiative under the GAIRLAB (General AI & Robotic Lab) led by [Prof. Peng Yin](https://www.cityu.edu.hk/mne/people/academic-staff/prof-yin-peng) at the City University of Hong Kong, MetaSLAM operates as a collective intelligence framework aimed at enhancing the capabilities of robotic systems during large-scale and long-term operations.
 
 ## 🌈 A Global Network of Excellence
 A unique feature of MetaSLAM is its international network that brings together top-tier researchers from around the globe, including a strategic partnership with Carnegie Mellon University. By fostering a collaborative ecosystem, MetaSLAM aims to extend the boundaries of what is currently possible in real-world robotic applications.
@@ -19,6 +19,16 @@ MetaSLAM specializes in a range of core approaches that represent the cutting ed
 * **Multi-agent Cooperation and Exploration**: Designed for collaborative efficacy, the system allows multiple robotic agents to work in sync for optimized task performance.
   
 * **Lifelong Perception and Navigation**: With a focus on long-term operations, MetaSLAM ensures robots can adapt to their environments over time, improving both perception and navigation.
+
+## 🧙 Step by Step AGI System Developing
+
+### Localization
+
+### Mapping
+
+### Navigation
+
+### Memory
 
 ## 🍿 Empowering Future Research
 The ultimate goal of MetaSLAM is to empower researchers and innovators in various domains of field robotics. Its state-of-the-art approaches provide invaluable tools and frameworks that can be customized for a range of applications, from urban planning and disaster recovery to industrial automation and healthcare.
